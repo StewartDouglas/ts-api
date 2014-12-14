@@ -1,0 +1,1626 @@
+[
+    {
+        "entityType": "Individual",
+        "firstName": "Ismail Abdul Salah",
+        "lastName": "HANIYA",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9150",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "HANIYA",
+                    "firstName": "Ismail"
+                },
+                {
+                    "uid": "9151",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "HANIYYA",
+                    "firstName": "Ismaeel"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mohammed",
+        "lastName": "ABU TEIR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9152",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ABU TAIR",
+                    "firstName": "Mohammed Mahmud"
+                },
+                {
+                    "uid": "9153",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ABOU TAYR",
+                    "firstName": "Mohammad Mahmoud"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Jamileh Abdullah",
+        "lastName": "AL-SHANTI",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12128",
+                "stateOrProvince": "Gaza",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9154",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "EL-SHANTI",
+                    "firstName": "Jameela Abdallah"
+                },
+                {
+                    "uid": "9155",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "AL SHANTEE",
+                    "firstName": "Jamila Abed Allah"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mohammed Jamal",
+        "lastName": "NU'MAN ALAEDDIN",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12129",
+                "city": "Hebron",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9156",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ALA AL DIN",
+                    "firstName": "Mohamad Nouman"
+                },
+                {
+                    "uid": "9157",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "AL NATSHEH",
+                    "firstName": "Mohammed"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Yasser Daoud",
+        "lastName": "MANSOUR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist"
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Khalil Musa",
+        "lastName": "RABAI",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9158",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "RABBAI",
+                "firstName": "Khalil Mussa"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Huda Naim",
+        "lastName": "AL-QREINAWI",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12130",
+                "stateOrProvince": "Gaza",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": {
+                "uid": "9159",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL QRENAWI",
+                "firstName": "Houda Naim"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mahmoud Ahmad",
+        "lastName": "AL-RAMAHI",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12131",
+                "city": "Ramallah",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mahmoud Khaled",
+        "lastName": "ZAHHAR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9160",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL ZAHAR",
+                "firstName": "Mahmoud Khaled"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Abdul Fattah",
+        "lastName": "HASAN DUKHAN",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9161",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "HASAN DOUKHAN",
+                "firstName": "Abdul Fattah"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Ibrahim Mohammed",
+        "lastName": "DAHBOUR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12132",
+                "city": "Jenin",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mariam Mahmoud",
+        "lastName": "SALEH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12133",
+                "city": "Ramallah",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Fathi Mohammed",
+        "lastName": "QAR'AWI",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12134",
+                "city": "Tulkarim",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": {
+                "uid": "9162",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "QARAWI",
+                "firstName": "Mohammed Fathi"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Anwar Mohammed",
+        "lastName": "ZBOUN",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12135",
+                "city": "Bethlehem",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": {
+                "uid": "9163",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-ZBOUN",
+                "firstName": "Anwar Muhammad"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Imad Mahmoud",
+        "lastName": "NOFAL",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12136",
+                "city": "Qalqilya",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": {
+                "uid": "9164",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "NAWFAL",
+                "firstName": "Imad Mahmoud"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Omar Mahmoud",
+        "lastName": "MATAR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12137",
+                "city": "Salfit",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Muna Salim Saleh",
+        "lastName": "MANSOUR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12138",
+                "city": "Nablus",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": {
+                "uid": "9165",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "MANSOUR",
+                "firstName": "Muna Salem"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Yahia Abdul Aziz",
+        "lastName": "AL-ABADSAH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12139",
+                "city": "Khan Younis",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": {
+                "uid": "9166",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "EL ABADSA",
+                "firstName": "Yehia Abdul Aziz"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mohammed Maher Yousef",
+        "lastName": "BADER",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12140",
+                "city": "Hebron",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Ayman Hussein",
+        "lastName": "DARAGHMEH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12141",
+                "city": "Tubas",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Fathi Ahmad",
+        "lastName": "HAMMAD",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist"
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mariam Mohammed",
+        "lastName": "FARHAT",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12142",
+                "stateOrProvince": "Gaza",
+                "country": "Palestinian"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Sayyed Salem",
+        "lastName": "ABU MSAMEH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12143",
+                "city": "Rafah",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": {
+                "uid": "9167",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABU MUSAMEH",
+                "firstName": "Sayed Salem"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Marwan Mohammed",
+        "lastName": "ABU RAS",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12144",
+                "city": "Gaza City",
+                "stateOrProvince": "Gaza",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": {
+                "uid": "9168",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABOU RAAS",
+                "firstName": "Merwan Muhammed"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Samira Abdullah",
+        "lastName": "HALAYQAH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12145",
+                "city": "Hebron",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": {
+                "uid": "9169",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "HALAYQA",
+                "firstName": "Sameera Abed Allah"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Jamal Ismail",
+        "lastName": "ISKEIK",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12146",
+                "stateOrProvince": "Gaza",
+                "country": "Palestinian"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Ali Salim",
+        "lastName": "ROUMANIN",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12147",
+                "city": "Oja",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Ahmad Yousef",
+        "lastName": "ABU HALABIYYE",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12148",
+                "city": "Gaza City",
+                "stateOrProvince": "Gaza",
+                "country": "Palestinian"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Abdul Jaber Mustafa",
+        "lastName": "FUQAHA",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12149",
+                "city": "Ramallah",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Aziz",
+        "lastName": "DWEIK",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9170",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "DWAIK",
+                "firstName": "Aziz Salem Mustada"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Azzam",
+        "lastName": "SALHAB",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9171",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "SALHAB",
+                    "firstName": "Azzam Numan Rahman"
+                },
+                {
+                    "uid": "9172",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "SALHAB TAMIMI",
+                    "firstName": "Azzam No'man Abdel Rahman"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Nizar",
+        "lastName": "RAMADAN",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9173",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "RAMADAN",
+                "firstName": "Nizar Abd-Al-Aziz"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Nayef",
+        "lastName": "RJOUB",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9174",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "RAJOUB",
+                "firstName": "Naif Mahmod"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Samir",
+        "lastName": "AL-QADI",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9175",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-QADI",
+                "firstName": "Sameer Saleh"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mohammed",
+        "lastName": "ABU JHEISHEH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9176",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ABU JHESHEH",
+                    "firstName": "Mohammad Mutlaq"
+                },
+                {
+                    "uid": "9177",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ABU JEHEISHA",
+                    "firstName": "Mohammed"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Hatem",
+        "lastName": "QFEISHEH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9178",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "KAFEESHEH",
+                    "firstName": "Hatem Rabah"
+                },
+                {
+                    "uid": "9179",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "QEFEISHA",
+                    "firstName": "Hatem"
+                },
+                {
+                    "uid": "9180",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ABU ANED",
+                    "firstName": "Hadj Hatem"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Basem",
+        "lastName": "ZA'ARIR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9181",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ZAAREER",
+                "firstName": "Basim Ahmad"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mohammed",
+        "lastName": "AL-TAL",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9182",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-TAL",
+                "firstName": "Mohammad Ismail"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Daoud",
+        "lastName": "ABU SEIR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9183",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABU SAIR",
+                "firstName": "Da'oud Kamal Da'oud"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Hamid Jabir",
+        "lastName": "KHUDAIR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9184",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "KHUDAIR",
+                "firstName": "Hamid Sulieman Jabir"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Husni Bourini",
+        "lastName": "YASIN",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9185",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "YASIN",
+                "firstName": "Husni Mohammad Bourini"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Riyad Ali",
+        "lastName": "AMLI",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9186",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AMLI",
+                "firstName": "Riyad Ali Mustafa"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Ahmad Ali",
+        "lastName": "AHMAD",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9187",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AHMAD",
+                "firstName": "Ahmad Ali Ahmad"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Hasan",
+        "lastName": "YOUSEF",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9188",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "DAR KHALIL",
+                    "firstName": "Hasan Youssef Daoud"
+                },
+                {
+                    "uid": "9189",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "DAR KHALIL",
+                    "firstName": "Hassan Yousef Dawoud"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Fadel",
+        "lastName": "HAMDAN",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9190",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "HAMDAN",
+                "firstName": "Fadel Mohammad Saleh"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mahmoud",
+        "lastName": "MUSLEH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9191",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "MUSLEH",
+                "firstName": "Mahmoud Ibrahim Mahmoud"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Ahmad 'Abd al-Aziz",
+        "lastName": "MUBARAK",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9192",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "MUBARAK",
+                "firstName": "Ahmad Abdel Aziz Saleh"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Khaled Tafish",
+        "lastName": "THWEIB",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9193",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "THOUAIB",
+                    "firstName": "Khaled Ibrahim Tafish"
+                },
+                {
+                    "uid": "9194",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "DWEIB",
+                    "firstName": "Khaled Tafesh"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mahmoud",
+        "lastName": "AL-KHATIB",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9195",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-KHATIB",
+                "firstName": "Mahmoud Daoud Mahmoud"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Khaled Abed",
+        "lastName": "YAHIA",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12150",
+                "city": "Jenin",
+                "stateOrProvince": "West Bank",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": {
+                "uid": "9196",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "YEHIA",
+                "firstName": "Khaled Said"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Khaled",
+        "lastName": "ABU HASSAN",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9197",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ABOU HASSAN",
+                    "firstName": "Khaled Suleiman Fayez"
+                },
+                {
+                    "uid": "9198",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ABU HASAN",
+                    "firstName": "Khalid Sulayman Fayiz"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Abdul Rahman Fahmi",
+        "lastName": "ZEIDAN",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9199",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ZEIDAN",
+                "firstName": "Abdel Rahman Fahmi Rahman"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Riyad",
+        "lastName": "RADDAD",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9200",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "RADAD",
+                    "firstName": "Riyad Mahmoud Sa'eed"
+                },
+                {
+                    "uid": "9201",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "AL-SEDAWI",
+                    "firstName": "Riyad Radad"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Ahmad",
+        "lastName": "ATTOUN",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9202",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ATTOUN",
+                    "firstName": "Ahmad Mohammad Ahmad"
+                },
+                {
+                    "uid": "9203",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ATOON",
+                    "firstName": "Ahmed Muhamad Ahmed"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Ibrahim",
+        "lastName": "ABU SALEM",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9204",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABOU SALEM",
+                "firstName": "Ibrahim Said Hasan"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mohammed Saleh",
+        "lastName": "TUTAH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9205",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "TAWTAH",
+                    "firstName": "Mohammad Omran Saleh"
+                },
+                {
+                    "uid": "9206",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "TAWTA",
+                    "firstName": "Muhamed Umran Salih"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Wael",
+        "lastName": "AL-HUSSEINI",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9207",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ABDUL RAHMAN",
+                    "firstName": "Wael Muhammed"
+                },
+                {
+                    "uid": "9208",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ABED AL RAHMAAN",
+                    "firstName": "Wael Mohamad"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Naser",
+        "lastName": "ABDUL JAWAD",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9209",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABDEL JAWAD",
+                "firstName": "Nasir Abdullah Odeh"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Khaled",
+        "lastName": "ABU TOS",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9210",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABU QOUS",
+                "firstName": "Khalid Hamad Hamid"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Khamis",
+        "lastName": "NAJJAR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9211",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "NAJJAR",
+                "firstName": "Khamis Jawdat Khamis"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Salah",
+        "lastName": "AL-BARDAWIL",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9212",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "EL BARDAWIL",
+                "firstName": "Salah Mohammad"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Younes",
+        "lastName": "AL-ASTAL",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9213",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "EL-ASTAL",
+                "firstName": "Younis Mohe-eldeen Fayez"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Abdul Rahman",
+        "lastName": "AL-JAMAL",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9214",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-JAMAL",
+                "firstName": "Abdel Al-Rahman Yusef"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Salem",
+        "lastName": "SALAMEH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9215",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "SALAMEH",
+                "firstName": "Salem Ahmad Abdel Hadi"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Saeed",
+        "lastName": "SIAM",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "addressList": {
+            "address": {
+                "uid": "12151",
+                "stateOrProvince": "Gaza",
+                "country": "Palestinian"
+            }
+        },
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9216",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "SEYAM",
+                    "firstName": "Said Mohammad"
+                },
+                {
+                    "uid": "9217",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "SIYAM",
+                    "firstName": "Saeed Mohammad"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Ahmad",
+        "lastName": "BAHAR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9218",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "BAHAR",
+                "firstName": "Ahmed Mohamed"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Jamal",
+        "lastName": "SALEH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9219",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "NASSER",
+                    "firstName": "Jamal Talab Mohammad Saleh"
+                },
+                {
+                    "uid": "9220",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "SALEH",
+                    "firstName": "Jamal Talab"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Khalil",
+        "lastName": "AL-HAYYEH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9221",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ELHYYA",
+                "firstName": "Khalil Esmaeel"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mohammed Faraj",
+        "lastName": "AL-GHOUL",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9222",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ELGHOUL",
+                "firstName": "Mohammad Faraj Mahmood"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mushir",
+        "lastName": "AL-HABAL",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9223",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ELHABEL",
+                    "firstName": "Moshir Omar"
+                },
+                {
+                    "uid": "9224",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "EL-MASRI",
+                    "firstName": "Moshir"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Atef",
+        "lastName": "UDWAN",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "9225",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "ADWAN",
+                    "firstName": "Atef Ibrahim"
+                },
+                {
+                    "uid": "9226",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "IDWAN",
+                    "firstName": "Atef Ibrahim Mohammad"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Yousef",
+        "lastName": "AL-SHARAFI",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9227",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-SHRAFI",
+                "firstName": "Yousef Awad"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Ismail",
+        "lastName": "AL-ASHQAR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9228",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-ALASHQAR",
+                "firstName": "Ismail Abdallatif"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Mohammed",
+        "lastName": "SHIHAB",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "9229",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "SHEHAB",
+                "firstName": "Mohamed Abed Hadi Rahman"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Ahmad",
+        "lastName": "SA'DAT",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist"
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Jamil",
+        "lastName": "MAJDALAWI",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist"
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Khaledah",
+        "lastName": "JARRAR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist"
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Qais Abdul",
+        "lastName": "KARIM",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist"
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Vitaly",
+        "lastName": "SOKOLENKO",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "24750",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "SOKOLENKO",
+                    "firstName": "Vitalii"
+                },
+                {
+                    "uid": "24751",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "SOKOLENKO",
+                    "firstName": "Vitaliy"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Pourya",
+        "lastName": "NAYEBI",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": {
+                "uid": "25073",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "NAYEBI",
+                "firstName": "Pourya Ali Asghar"
+            }
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Houshang",
+        "lastName": "HOSSEINPOUR",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "25075",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "HOSSEINPOUR",
+                    "firstName": "Houshang Shahali"
+                },
+                {
+                    "uid": "25077",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "HOSEIN-PUR",
+                    "firstName": "Houshang"
+                }
+            ]
+        }
+    },
+    {
+        "entityType": "Individual",
+        "firstName": "Houshang",
+        "lastName": "FARSOUDEH",
+        "nationality": "",
+        "dataSource": "US Sanctions List",
+        "listType": "Watchlist",
+        "akaList": {
+            "aka": [
+                {
+                    "uid": "25120",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "FARSOUDEH",
+                    "firstName": "Hushang"
+                },
+                {
+                    "uid": "25121",
+                    "type": "a.k.a.",
+                    "category": "strong",
+                    "lastName": "FARSOUDEH",
+                    "firstName": "Houshang Hossein"
+                }
+            ]
+        }
+    }
+]
