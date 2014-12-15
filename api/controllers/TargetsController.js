@@ -12,7 +12,10 @@ module.exports = {
    */
   all: function (req, res) {
 
+    console.log(req.body);
+
     Targets.find()
+      .where(req.body)
       .exec(function(err,results){
             if(err){
               console.log('Error searching for all targets');
@@ -27,6 +30,8 @@ module.exports = {
    * `TargetsController.pep()`
    */
   peps: function (req, res) {
+
+    console.log(req.body);
 
     Targets.find()
       .where({listType: "PEP"})

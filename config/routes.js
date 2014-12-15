@@ -32,10 +32,19 @@ module.exports.routes = {
   *                                                                          *
   ***************************************************************************/
 
-  '/': {
-    view: 'homepage'
-  }
+  'GET /v1/targets': 'TargetsController.all',
+  'GET /v1/targets/': 'TargetsController.all',
+  'GET /v1/targets/peps': 'TargetsController.peps',
+  'GET /v1/targets/peps/': 'TargetsController.peps',  
+  'GET /v1/targets/watchlists': 'TargetsController.watchlists',
+  'GET /v1/targets/watchlists/': 'TargetsController.watchlists',
 
+  'POST /v1/targets': 'TargetsController.all',
+  'POST /v1/targets/': 'TargetsController.all',
+  'POST /v1/targets/peps': 'TargetsController.peps',
+  'POST /v1/targets/peps/': 'TargetsController.peps',  
+  'POST /v1/targets/watchlists': 'TargetsController.watchlists',  
+  'POST /v1/targets/watchlists/': 'TargetsController.watchlists'
 
   /***************************************************************************
   *                                                                          *
