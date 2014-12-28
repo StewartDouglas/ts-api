@@ -18,9 +18,17 @@ MongoClient.connect("mongodb://localhost:27017/kyc",function(err,db){
 		// 	db.collection('targets').insert(element,{w:0});
 		// });	
 
-		require("./CIA_PEPs/CIAWorldLeaders.json").forEach(function(element){
+		// require("./CIA_PEPs/CIAWorldLeaders.json").forEach(function(element){
+		// 	db.collection('targets').insert(element,{w:0});
+		// });
+
+		require("./UN_Sanctions/UNSanctionsFinal.json").forEach(function(element){
 			db.collection('targets').insert(element,{w:0});
 		});
+
+		// require("./EU_Sanctions/EUSanctions.json").forEach(function(element){
+		// 	db.collection('targets').insert(element,{w:0});
+		// });
 
 		console.log("Elements added to MongoDB");	
 
