@@ -1,0 +1,175 @@
+<!-- Example Response Schema -->
+<Results APIVERSION="5.2.0 - 20141021">
+	<Result RID=”EXAMPLE123” PID=”LTJ-OLS1-1111-1111-1111” DateTime=”01-11-2014 16:45:45”>
+		<Displays>
+		    <ChecksCompleted/>
+		    <!-- lists each module with yes/no result-->
+		    <InputData/>
+		    <!-- Returns original input data w/ some exceptions-->
+		    <BankcheckStandard/>
+
+		    <BankcheckEnhanced>
+				<Result>Pass</Result>
+				<Score>55</Score>
+				<AccountIssuer>NATIONWIDE BLDG SCTY</AccountIssuer> 
+				<OtherAccountsFoundForIssuer>yes</OtherAccountsFoundForIssuer> 
+				<OFA>
+				[Ownership Fraud Alert structure – see section 4.2.5]
+				</OFA>
+				<BankAccountPlus>
+				[Bank Account Plus structure – see section 4.2.6]
+				</BankAccountPlus> 
+				<AccountStartDate>2014-04-16</AccountStartDate> 
+				<AccountRecencyWarning>yes</AccountRecencyWarning>
+		    <BankcheckEnhanced>
+
+		    <CardcheckEnhanced>
+				<Result>Pass</Result>
+				<Score>55</Score>
+				<CardIssuer>NATIONWIDE BLDG SCTY</CardIssuer> 
+				<Country>United Kingdom</Country> 
+				<Scheme></Scheme>
+				<Type>Credit</Type> 
+				<OtherAccountsFoundForIssuer>yes</OtherAccountsFoundForIssuer> 
+				<OFA>
+				[Ownership Fraud Alert structure – see section 4.2.5]
+			    </OFA>
+		    </CardcheckEnhanced>
+
+		    <CardcheckLive/>
+
+		    <IdentityCheck>
+				<addresslinkswarning></addresslinkswarning> 
+				<addresspicklistfound></addresspicklistfound> 
+				<addresswarning></addresswarning> 
+				<appverified>
+					<!-- 'Yes' - verified; 'Yes - Warning Present' - warning present; 'Referred' - referred-->
+				</appverified> 
+				<confirmatorydobs></confirmatorydobs> 
+				<currentaddressmatched></currentaddressmatched> 
+				<deceasedwarning></deceasedwarning> 
+				<directorathome></directorathome>
+				<dvlawarning></dvlawarning>
+				<ervalid>
+					<!-- 1 = Individual found on current Annual Electoral Register; 3 = Individual found on previous Annual Electoral Register, 4 = Individual found on the current Rolling Electoral Register; 5 =Individual found on previous Rolling Electoral Register.-->
+				</ervalid> 
+				<forwardingaddress></forwardingaddress> 
+				<fraudulentpassportwarning></fraudulentpassportwarning> 
+				<goneawaywarning></goneawaywarning> 
+				<grodeceased></grodeceased>
+				<halomatch></halomatch>
+				<IDBasic/>
+				<levelofconfidencebai></levelofconfidencebai> 
+				<levelofconfidenceccjs></levelofconfidenceccjs> 
+				<levelofconfidencedob></levelofconfidencedob> 
+				<levelofconfidenceer>
+					<!-- Section 4.2.8.1 Level of Confidence - Electoral Register-->
+				</levelofconfidenceer> 
+				<levelofconfidencehalo></levelofconfidencehalo> 
+				<levelofconfidenceinvestors></levelofconfidenceinvestors>
+				<levelofconfidenceshare></levelofconfidenceshare>
+				<lorwarning></lorwarning> 
+				<matchlevel></matchlevel> 
+				<namematched></namematched> 
+				<namepicklistfound></namepicklistfound> 
+				<nocs></nocs> 
+				<numactivecifasrecords></numactivecifasrecords> 
+				<numaddresslinks></numaddresslinks> 
+				<numbais></numbais>
+				<numccjs></numccjs>
+				<numcorroborativechecks></numcorroborativechecks> 
+				<numcorroborativeidsconfirmed></numcorroborativeidsconfirmed> 
+				<numcorroborativeotheridsconfirmed></numcorroborativeotheridsconfirmed> 
+				<numinvestors></numinvestors>
+				<numprimarychecks></numprimarychecks> 
+				<numprimaryotheridsconfirmed></numprimaryotheridsconfirmed> 
+				<numsharerecords></numsharerecords>
+				<pafvalid></pafvalid>
+				<passportwarning></passportwarning>
+				<pepwarning>
+					<!-- true - if the name matches to the Politically Exposed People database -->
+				</pepwarning>
+				<readmatch></readmatch>
+				<sanctionswarning>
+
+				</sanctionswarning>
+				<sdnwarning>
+					<!-- OFAC Specially Designated Nationals (US Treasury) -->
+				</sdnwarning>
+				<sharelorwarning></sharelorwarning>
+				<totaldobs></totaldobs>		    	
+	    	<IdentityCheck>
+
+		    <NCOAAlert>
+		    <!-- Royal Mail National Change of Address Alert -->
+			    <NCOAAlertFlag>true</NCOAAlertFlag>	
+		    </NCOAAlert>	
+
+		    <CallValidate3D/>
+		    <TheAffordabilityReport/>
+		    <ForeignIDCheck/>
+		    <DeliveryfraudCheck/>
+
+		    <AgeVerify>
+			    <Age>23</Age>
+				<DateOfBirth>1987-04-15</DateOfBirth> 
+				<Over18>yes</Over18>
+			</AgeVerify>
+
+		    <OtherChecks>
+			    <IdentityResult>Pass</IdentityResult> 
+			    <IdentityScore>
+			    <!-- The score returned by the identity scorecard -->
+			    	70
+			    </IdentityScore> 
+			    <CreditScore>593</CreditScore>
+				<Zodiacsign>Aries</Zodiacsign>
+		    </OtherChecks>
+
+		    <RealTimeFraudAlerts>
+		    <!-- This module identifies multiple searches within a short time period and inconsistent details compared to previous applications, which both may indicate potential fraud. -->
+			    <Summary>
+					<VelocityThreshold>2</VelocityThreshold> 
+					<VelocityPeriod>10 minutes</VelocityPeriod> 
+					<InconsistencyThreshold>2</InconsistencyThreshold> 
+					<InconsistencyPeriod>10 minutes</InconsistencyPeriod> <TotalVelocityWarnings>3</TotalVelocityWarnings> 
+					<TotalInconsistencyWarnings>2</TotalInconsistencyWarnings>
+				</Summary>
+				<VelocityData>
+					<Velocity Type="Identity"> 
+						<LastSeen>2014-10-30 15:06:07</LastSeen> 
+						<TimesSeen>2</TimesSeen> 
+						<Warning>yes</Warning>
+					</Velocity>
+					<Velocity Type="Address">
+						<LastSeen>2014-10-30 15:06:07</LastSeen> 
+						<TimesSeen>2</TimesSeen> 
+						<Warning>yes</Warning>
+					</Velocity>
+					<Velocity Type="BankDetails">
+						<LastSeen>2014-10-30 15:06:07</LastSeen> 
+						<!-- Indicates the date and time that the same details were processed by CallValidate, if they have been seen within the configured VelocityPeriod Level.-->
+						<TimesSeen>6</TimesSeen> 
+						<Warning>yes</Warning>
+				    </Velocity>
+				</VelocityData>
+				<InconsistencyData>
+					<InconsistencyGroup Type="BankDetails">
+						<Inconsistency Type="Identity"> 
+							<LastSeen>2014-10-30 15:05:42</LastSeen>
+							<!-- Indicates the date and time that hte same bank details were last processed by CallValidate with a different identity presented -->
+							<TimesSeen>2</TimesSeen>
+			                <Warning>yes</Warning>
+			            </Inconsistency>
+			            <Inconsistency Type="Address">
+							<LastSeen>2014-10-30 15:05:42</LastSeen>
+							<TimesSeen>2</TimesSeen>
+							<Warning>yes</Warning>
+			           </Inconsistency>
+			        </InconsistencyGroup>
+			    </InconsistencyData>
+			</RealTimeFraudAlerts>		    	
+		    <Warnings/>
+		</Displays>
+	</Result>
+</Results>

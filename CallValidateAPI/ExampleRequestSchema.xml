@@ -1,0 +1,98 @@
+<!-- Example Request -->
+<callvalidate>
+	<authentication>
+		<username></username>
+		<password></password>
+	</authentication>
+	<sessions>
+		<session RID="EXAMPLE123">
+        	<data>
+				<Checksrequired>
+				<!-- Optional -->
+					<BankStandard>yes</BankStandard>
+					<BankEnhanced>yes</BankEnhanced>
+					<CardLive>no</CardLive>
+					<CardEnhanced>no</CardEnhanced>
+					<IDEnhanced>yes</IDEnhanced>
+					<NCOAAlert>yes</NCOAAlert>
+					<CallValidate3D>yes</CallValidate3D>
+					<TheAffordabilityReport>yes</TheAffordabilityReport>
+					<ForeignID>no</ForeignID>
+					<DeliveryFraud>no</DeliveryFraud>
+					<CreditScore>no</CreditScore>
+					<Zodiac>no</Zodiac>
+					<RealTimeFraudAlerts>yes</RealTimeFraudAlerts>
+            	</Checksrequired>
+            	<Personalinformation>
+				<!-- Contains name, address and other personal details for checks that require them -->
+
+				    <IndividualDetails>
+						<Dateofbirth>01-01-1910</Dateofbirth>
+						<Title>Mr</Title>
+						<Firstname>Alan</Firstname>
+						<Othernames></Othernames>
+						<Surname>Grass</Surname>
+						<Phonenumber>01234567891</Phonenumber > 
+						<Emailaddress></Emailaddress> 
+						<addresslessthan12months>false</addresslessthan12months> 
+						<Passportline1></Passportline1> 
+						<Passportline2></Passportline2> 
+						<Drivinglicensenumber></Drivinglicensenumber> 
+						<PassportExpiryDate></PassportExpiryDate> 
+						<IPAddress></IPAddress>
+				    </IndividualDetails>
+
+					<AddressDetails>
+						<!-- one of these three must be submitted: -->
+						<Abodenumber>Flat 123</Abodenumber> 
+						<Buildingnumber>45</Buildingnumber> 
+						<Buildingname></Buildingname>
+						<Address1>Main Road</Address1> 
+						<Address2></Address2>
+						<Address3></Address3>
+						<Town>Test Town</Town>
+						<Postcode>X9 9LF</Postcode> 
+						<Previousabodenumber></Previousabodenumber> 
+						<Previousbuildingnumber></Previousbuildingnumber> 
+						<Previousbuildingname></Previousbuildingname> 
+						<Previousaddress1></Previousaddress1> 
+						<Previousaddress2></Previousaddress2> 
+						<Previousaddress3></Previousaddress3> 
+						<Previoustown></Previoustown> 
+						<Previouspostcode></Previouspostcode> 
+						<Deliveryabodenumber></Deliveryabodenumber> 
+						<Deliverybuildingnumber></Deliverybuildingnumber> 
+						<Deliverybuildingname></Deliverybuildingname>
+						<Deliveryaddress1></Deliveryaddress1> 
+						<Deliveryaddress2></Deliveryaddress2> 
+						<Deliveryaddress3></Deliveryaddress3> 
+						<Deliverytown></Deliverytown> 
+						<Deliverypostcode></Deliverypostcode>
+				    </AddressDetails>				    
+
+				</Personalinformation>
+
+				<Cardinformation>
+				<!-- Required for card enhanced and card live checks-->	
+					<Cardnumber>4444333322221111</Cardnumber> 
+					<Cardexpirydate>01/12</Cardexpirydate> 
+					<Cardstartdate>01/03</Cardstartdate> 
+					<CardCV2>222</CardCV2>
+					<Cardissuenumber></Cardissuenumber>
+				</Cardinformation>
+
+				<Bankinformation>
+				<!-- Required for standard and or enhanced bank checks -->
+					<Bankaccountnumber>63849203</Bankaccountnumber>
+					<Banksortcode>134020</Banksortcode>
+				</Bankinformation>
+
+				<IncomeDetails>
+				<!-- Required for The Affordability Report -->	
+
+				</IncomeDetails>
+            </data>
+		</session>
+	</sessions>	
+	<application>V52-API-CTEST</application>	
+</callvalidate>
