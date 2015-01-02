@@ -1,402 +1,602 @@
 [
     {
-        "value": "https://www.congress.gov/member/lamar-alexander/1695",
-        "content": "Alexander, Lamar [R-TN]"
+        "party": "R",
+        "state": "TN",
+        "lastName": "Alexander",
+        "firstName": "Lamar"
     },
     {
-        "value": "https://www.congress.gov/member/kelly-ayotte/2075",
-        "content": "Ayotte, Kelly [R-NH]"
+        "party": "R",
+        "state": "NH",
+        "lastName": "Ayotte",
+        "firstName": "Kelly"
     },
     {
-        "value": "https://www.congress.gov/member/tammy-baldwin/1558",
-        "content": "Baldwin, Tammy [D-WI]"
+        "party": "D",
+        "state": "WI",
+        "lastName": "Baldwin",
+        "firstName": "Tammy"
     },
     {
-        "value": "https://www.congress.gov/member/john-barrasso/1881",
-        "content": "Barrasso, John [R-WY]"
+        "party": "R",
+        "state": "WY",
+        "lastName": "Barrasso",
+        "firstName": "John"
     },
     {
-        "value": "https://www.congress.gov/member/mark-begich/1898",
-        "content": "Begich, Mark [D-AK]"
+        "party": "D",
+        "state": "AK",
+        "lastName": "Begich",
+        "firstName": "Mark"
     },
     {
-        "value": "https://www.congress.gov/member/michael-bennet/1965",
-        "content": "Bennet, Michael F. [D-CO]"
+        "party": "D",
+        "state": "CO",
+        "lastName": "Bennet",
+        "firstName": "Michael F."
     },
     {
-        "value": "https://www.congress.gov/member/richard-blumenthal/2076",
-        "content": "Blumenthal, Richard [D-CT]"
+        "party": "D",
+        "state": "CT",
+        "lastName": "Blumenthal",
+        "firstName": "Richard"
     },
     {
-        "value": "https://www.congress.gov/member/roy-blunt/1464",
-        "content": "Blunt, Roy [R-MO]"
+        "party": "R",
+        "state": "MO",
+        "lastName": "Blunt",
+        "firstName": "Roy"
     },
     {
-        "value": "https://www.congress.gov/member/cory-booker/2194",
-        "content": "Booker, Cory A. [D-NJ]"
+        "party": "D",
+        "state": "NJ",
+        "lastName": "Booker",
+        "firstName": "Cory A."
     },
     {
-        "value": "https://www.congress.gov/member/john-boozman/1687",
-        "content": "Boozman, John [R-AR]"
+        "party": "R",
+        "state": "AR",
+        "lastName": "Boozman",
+        "firstName": "John"
     },
     {
-        "value": "https://www.congress.gov/member/barbara-boxer/116",
-        "content": "Boxer, Barbara [D-CA]"
+        "party": "D",
+        "state": "CA",
+        "lastName": "Boxer",
+        "firstName": "Barbara"
     },
     {
-        "value": "https://www.congress.gov/member/sherrod-brown/136",
-        "content": "Brown, Sherrod [D-OH]"
+        "party": "D",
+        "state": "OH",
+        "lastName": "Brown",
+        "firstName": "Sherrod"
     },
     {
-        "value": "https://www.congress.gov/member/richard-burr/153",
-        "content": "Burr, Richard [R-NC]"
+        "party": "R",
+        "state": "NC",
+        "lastName": "Burr",
+        "firstName": "Richard"
     },
     {
-        "value": "https://www.congress.gov/member/maria-cantwell/172",
-        "content": "Cantwell, Maria [D-WA]"
+        "party": "D",
+        "state": "WA",
+        "lastName": "Cantwell",
+        "firstName": "Maria"
     },
     {
-        "value": "https://www.congress.gov/member/benjamin-cardin/174",
-        "content": "Cardin, Benjamin L. [D-MD]"
+        "party": "D",
+        "state": "MD",
+        "lastName": "Cardin",
+        "firstName": "Benjamin L."
     },
     {
-        "value": "https://www.congress.gov/member/thomas-carper/179",
-        "content": "Carper, Thomas R. [D-DE]"
+        "party": "D",
+        "state": "DE",
+        "lastName": "Carper",
+        "firstName": "Thomas R."
     },
     {
-        "value": "https://www.congress.gov/member/bob-casey/1828",
-        "content": "Casey, Robert P., Jr. [D-PA]"
+        "party": "D",
+        "state": "PA",
+        "lastName": "Casey",
+        "firstName": "Robert P. Jr."
     },
     {
-        "value": "https://www.congress.gov/member/saxby-chambliss/188",
-        "content": "Chambliss, Saxby [R-GA]"
+        "party": "R",
+        "state": "GA",
+        "lastName": "Chambliss",
+        "firstName": "Saxby"
     },
     {
-        "value": "https://www.congress.gov/member/daniel-coats/209",
-        "content": "Coats, Daniel [R-IN]"
+        "party": "R",
+        "state": "IN",
+        "lastName": "Coats",
+        "firstName": "Daniel"
     },
     {
-        "value": "https://www.congress.gov/member/tom-coburn/212",
-        "content": "Coburn, Tom [R-OK]"
+        "party": "R",
+        "state": "OK",
+        "lastName": "Coburn",
+        "firstName": "Tom"
     },
     {
-        "value": "https://www.congress.gov/member/thad-cochran/213",
-        "content": "Cochran, Thad [R-MS]"
+        "party": "R",
+        "state": "MS",
+        "lastName": "Cochran",
+        "firstName": "Thad"
     },
     {
-        "value": "https://www.congress.gov/member/susan-collins/1541",
-        "content": "Collins, Susan M. [R-ME]"
+        "party": "R",
+        "state": "ME",
+        "lastName": "Collins",
+        "firstName": "Susan M."
     },
     {
-        "value": "https://www.congress.gov/member/christopher-coons/1984",
-        "content": "Coons, Christopher A. [D-DE]"
+        "party": "D",
+        "state": "DE",
+        "lastName": "Coons",
+        "firstName": "Christopher A."
     },
     {
-        "value": "https://www.congress.gov/member/bob-corker/1825",
-        "content": "Corker, Bob [R-TN]"
+        "party": "R",
+        "state": "TN",
+        "lastName": "Corker",
+        "firstName": "Bob"
     },
     {
-        "value": "https://www.congress.gov/member/john-cornyn/1692",
-        "content": "Cornyn, John [R-TX]"
+        "party": "R",
+        "state": "TX",
+        "lastName": "Cornyn",
+        "firstName": "John"
     },
     {
-        "value": "https://www.congress.gov/member/michael-crapo/250",
-        "content": "Crapo, Mike [R-ID]"
+        "party": "R",
+        "state": "ID",
+        "lastName": "Crapo",
+        "firstName": "Mike"
     },
     {
-        "value": "https://www.congress.gov/member/ted-cruz/2175",
-        "content": "Cruz, Ted [R-TX]"
+        "party": "R",
+        "state": "TX",
+        "lastName": "Cruz",
+        "firstName": "Ted"
     },
     {
-        "value": "https://www.congress.gov/member/joe-donnelly/1850",
-        "content": "Donnelly, Joe [D-IN]"
+        "party": "D",
+        "state": "IN",
+        "lastName": "Donnelly",
+        "firstName": "Joe"
     },
     {
-        "value": "https://www.congress.gov/member/richard-durbin/326",
-        "content": "Durbin, Richard [D-IL]"
+        "party": "D",
+        "state": "IL",
+        "lastName": "Durbin",
+        "firstName": "Richard"
     },
     {
-        "value": "https://www.congress.gov/member/michael-enzi/1542",
-        "content": "Enzi, Michael B. [R-WY]"
+        "party": "R",
+        "state": "WY",
+        "lastName": "Enzi",
+        "firstName": "Michael B."
     },
     {
-        "value": "https://www.congress.gov/member/dianne-feinstein/1332",
-        "content": "Feinstein, Dianne [D-CA]"
+        "party": "D",
+        "state": "CA",
+        "lastName": "Feinstein",
+        "firstName": "Dianne"
     },
     {
-        "value": "https://www.congress.gov/member/deb-fischer/2179",
-        "content": "Fischer, Deb [R-NE]"
+        "party": "R",
+        "state": "NE",
+        "lastName": "Fischer",
+        "firstName": "Deb"
     },
     {
-        "value": "https://www.congress.gov/member/jeff-flake/1633",
-        "content": "Flake, Jeff [R-AZ]"
+        "party": "R",
+        "state": "AZ",
+        "lastName": "Flake",
+        "firstName": "Jeff"
     },
     {
-        "value": "https://www.congress.gov/member/al-franken/1969",
-        "content": "Franken, Al [D-MN]"
+        "party": "D",
+        "state": "MN",
+        "lastName": "Franken",
+        "firstName": "Al"
     },
     {
-        "value": "https://www.congress.gov/member/kirsten-gillibrand/1866",
-        "content": "Gillibrand, Kirsten E. [D-NY]"
+        "party": "D",
+        "state": "NY",
+        "lastName": "Gillibrand",
+        "firstName": "Kirsten E."
     },
     {
-        "value": "https://www.congress.gov/member/lindsey-graham/452",
-        "content": "Graham, Lindsey [R-SC]"
+        "party": "R",
+        "state": "SC",
+        "lastName": "Graham",
+        "firstName": "Lindsey"
     },
     {
-        "value": "https://www.congress.gov/member/charles-grassley/457",
-        "content": "Grassley, Chuck [R-IA]"
+        "party": "R",
+        "state": "IA",
+        "lastName": "Grassley",
+        "firstName": "Chuck"
     },
     {
-        "value": "https://www.congress.gov/member/kay-hagan/1902",
-        "content": "Hagan, Kay [D-NC]"
+        "party": "D",
+        "state": "NC",
+        "lastName": "Hagan",
+        "firstName": "Kay"
     },
     {
-        "value": "https://www.congress.gov/member/thomas-harkin/501",
-        "content": "Harkin, Tom [D-IA]"
+        "party": "D",
+        "state": "IA",
+        "lastName": "Harkin",
+        "firstName": "Tom"
     },
     {
-        "value": "https://www.congress.gov/member/orrin-hatch/1351",
-        "content": "Hatch, Orrin G. [R-UT]"
+        "party": "R",
+        "state": "UT",
+        "lastName": "Hatch",
+        "firstName": "Orrin G."
     },
     {
-        "value": "https://www.congress.gov/member/martin-heinrich/1937",
-        "content": "Heinrich, Martin [D-NM]"
+        "party": "D",
+        "state": "NM",
+        "lastName": "Heinrich",
+        "firstName": "Martin"
     },
     {
-        "value": "https://www.congress.gov/member/heidi-heitkamp/2174",
-        "content": "Heitkamp, Heidi [D-ND]"
+        "party": "D",
+        "state": "ND",
+        "lastName": "Heitkamp",
+        "firstName": "Heidi"
     },
     {
-        "value": "https://www.congress.gov/member/dean-heller/1863",
-        "content": "Heller, Dean [R-NV]"
+        "party": "R",
+        "state": "NV",
+        "lastName": "Heller",
+        "firstName": "Dean"
     },
     {
-        "value": "https://www.congress.gov/member/mazie-hirono/1844",
-        "content": "Hirono, Mazie K. [D-HI]"
+        "party": "D",
+        "state": "HI",
+        "lastName": "Hirono",
+        "firstName": "Mazie K."
     },
     {
-        "value": "https://www.congress.gov/member/john-hoeven/2079",
-        "content": "Hoeven, John [R-ND]"
+        "party": "R",
+        "state": "ND",
+        "lastName": "Hoeven",
+        "firstName": "John"
     },
     {
-        "value": "https://www.congress.gov/member/jim-inhofe/583",
-        "content": "Inhofe, James M. [R-OK]"
+        "party": "R",
+        "state": "OK",
+        "lastName": "Inhofe",
+        "firstName": "James M."
     },
     {
-        "value": "https://www.congress.gov/member/johnny-isakson/1608",
-        "content": "Isakson, Johnny [R-GA]"
+        "party": "R",
+        "state": "GA",
+        "lastName": "Isakson",
+        "firstName": "Johnny"
     },
     {
-        "value": "https://www.congress.gov/member/mike-johanns/1899",
-        "content": "Johanns, Mike [R-NE]"
+        "party": "R",
+        "state": "NE",
+        "lastName": "Johanns",
+        "firstName": "Mike"
     },
     {
-        "value": "https://www.congress.gov/member/ron-johnson/2086",
-        "content": "Johnson, Ron [R-WI]"
+        "party": "R",
+        "state": "WI",
+        "lastName": "Johnson",
+        "firstName": "Ron"
     },
     {
-        "value": "https://www.congress.gov/member/tim-johnson/604",
-        "content": "Johnson, Tim [D-SD]"
+        "party": "D",
+        "state": "SD",
+        "lastName": "Johnson",
+        "firstName": "Tim"
     },
     {
-        "value": "https://www.congress.gov/member/timothy-kaine/2176",
-        "content": "Kaine, Tim [D-VA]"
+        "party": "D",
+        "state": "VA",
+        "lastName": "Kaine",
+        "firstName": "Tim"
     },
     {
-        "value": "https://www.congress.gov/member/angus-king/2185",
-        "content": "King, Angus S. Jr. [I-ME]"
+        "party": "I",
+        "state": "ME",
+        "lastName": "King",
+        "firstName": "Angus S. Jr."
     },
     {
-        "value": "https://www.congress.gov/member/mark-kirk/1647",
-        "content": "Kirk, Mark Steven [R-IL]"
+        "party": "R",
+        "state": "IL",
+        "lastName": "Kirk",
+        "firstName": "Mark Steven"
     },
     {
-        "value": "https://www.congress.gov/member/amy-klobuchar/1826",
-        "content": "Klobuchar, Amy [D-MN]"
+        "party": "D",
+        "state": "MN",
+        "lastName": "Klobuchar",
+        "firstName": "Amy"
     },
     {
-        "value": "https://www.congress.gov/member/mary-landrieu/1546",
-        "content": "Landrieu, Mary L. [D-LA]"
+        "party": "D",
+        "state": "LA",
+        "lastName": "Landrieu",
+        "firstName": "Mary L."
     },
     {
-        "value": "https://www.congress.gov/member/patrick-leahy/1383",
-        "content": "Leahy, Patrick J. [D-VT]"
+        "party": "D",
+        "state": "VT",
+        "lastName": "Leahy",
+        "firstName": "Patrick J."
     },
     {
-        "value": "https://www.congress.gov/member/mike-lee/2080",
-        "content": "Lee, Mike [R-UT]"
+        "party": "R",
+        "state": "UT",
+        "lastName": "Lee",
+        "firstName": "Mike"
     },
     {
-        "value": "https://www.congress.gov/member/carl-levin/1384",
-        "content": "Levin, Carl [D-MI]"
+        "party": "D",
+        "state": "MI",
+        "lastName": "Levin",
+        "firstName": "Carl"
     },
     {
-        "value": "https://www.congress.gov/member/joe-manchin/1983",
-        "content": "Manchin, Joe, III [D-WV]"
+        "party": "D",
+        "state": "WV",
+        "lastName": "Manchin",
+        "firstName": "Joe, III"
     },
     {
-        "value": "https://www.congress.gov/member/edward-markey/735",
-        "content": "Markey, Edward J. [D-MA]"
+        "party": "D",
+        "state": "MA",
+        "lastName": "Markey",
+        "firstName": "Edward J."
     },
     {
-        "value": "https://www.congress.gov/member/john-mccain/754",
-        "content": "McCain, John [R-AZ]"
+        "party": "R",
+        "state": "AZ",
+        "lastName": "McCain",
+        "firstName": "John"
     },
     {
-        "value": "https://www.congress.gov/member/claire-mccaskill/1820",
-        "content": "McCaskill, Claire [D-MO]"
+        "party": "D",
+        "state": "MO",
+        "lastName": "McCaskill",
+        "firstName": "Claire"
     },
     {
-        "value": "https://www.congress.gov/member/mitch-mcconnell/1395",
-        "content": "McConnell, Mitch [R-KY]"
+        "party": "R",
+        "state": "KY",
+        "lastName": "McConnell",
+        "firstName": "Mitch"
     },
     {
-        "value": "https://www.congress.gov/member/robert-menendez/791",
-        "content": "Menendez, Robert [D-NJ]"
+        "party": "D",
+        "state": "NJ",
+        "lastName": "Menendez",
+        "firstName": "Robert"
     },
     {
-        "value": "https://www.congress.gov/member/jeff-merkley/1900",
-        "content": "Merkley, Jeff [D-OR]"
+        "party": "D",
+        "state": "OR",
+        "lastName": "Merkley",
+        "firstName": "Jeff"
     },
     {
-        "value": "https://www.congress.gov/member/barbara-mikulski/802",
-        "content": "Mikulski, Barbara A. [D-MD]"
+        "party": "D",
+        "state": "MD",
+        "lastName": "Mikulski",
+        "firstName": "Barbara A."
     },
     {
-        "value": "https://www.congress.gov/member/jerry-moran/1507",
-        "content": "Moran, Jerry [R-KS]"
+        "party": "R",
+        "state": "KS",
+        "lastName": "Moran",
+        "firstName": "Jerry"
     },
     {
-        "value": "https://www.congress.gov/member/lisa-murkowski/1694",
-        "content": "Murkowski, Lisa [R-AK]"
+        "party": "R",
+        "state": "AK",
+        "lastName": "Murkowski",
+        "firstName": "Lisa"
     },
     {
-        "value": "https://www.congress.gov/member/christopher-murphy/1837",
-        "content": "Murphy, Christopher S. [D-CT]"
+        "party": "D",
+        "state": "CT",
+        "lastName": "Murphy",
+        "firstName": "Christopher S."
     },
     {
-        "value": "https://www.congress.gov/member/patty-murray/1409",
-        "content": "Murray, Patty [D-WA]"
+        "party": "D",
+        "state": "WA",
+        "lastName": "Murray",
+        "firstName": "Patty"
     },
     {
-        "value": "https://www.congress.gov/member/clarence-nelson/859",
-        "content": "Nelson, Bill [D-FL]"
+        "party": "D",
+        "state": "FL",
+        "lastName": "Nelson",
+        "firstName": "Bill"
     },
     {
-        "value": "https://www.congress.gov/member/rand-paul/2082",
-        "content": "Paul, Rand [R-KY]"
+        "party": "R",
+        "state": "KY",
+        "lastName": "Paul",
+        "firstName": "Rand"
     },
     {
-        "value": "https://www.congress.gov/member/rob-portman/924",
-        "content": "Portman, Rob [R-OH]"
+        "party": "R",
+        "state": "OH",
+        "lastName": "Portman",
+        "firstName": "Rob"
     },
     {
-        "value": "https://www.congress.gov/member/mark-pryor/1701",
-        "content": "Pryor, Mark L. [D-AR]"
+        "party": "D",
+        "state": "AR",
+        "lastName": "Pryor",
+        "firstName": "Mark L."
     },
     {
-        "value": "https://www.congress.gov/member/john-reed/949",
-        "content": "Reed, Jack [D-RI]"
+        "party": "D",
+        "state": "RI",
+        "lastName": "Reed",
+        "firstName": "Jack"
     },
     {
-        "value": "https://www.congress.gov/member/harry-reid/952",
-        "content": "Reid, Harry [D-NV]"
+        "party": "D",
+        "state": "NV",
+        "lastName": "Reid",
+        "firstName": "Harry"
     },
     {
-        "value": "https://www.congress.gov/member/james-risch/1896",
-        "content": "Risch, James E. [R-ID]"
+        "party": "R",
+        "state": "ID",
+        "lastName": "Risch",
+        "firstName": "James E."
     },
     {
-        "value": "https://www.congress.gov/member/pat-roberts/968",
-        "content": "Roberts, Pat [R-KS]"
+        "party": "R",
+        "state": "KS",
+        "lastName": "Roberts",
+        "firstName": "Pat"
     },
     {
-        "value": "https://www.congress.gov/member/jay-rockefeller/1424",
-        "content": "Rockefeller, John D., IV [D-WV]"
+        "party": "D",
+        "state": "WV",
+        "lastName": "Rockefeller",
+        "firstName": "John D. IV"
     },
     {
-        "value": "https://www.congress.gov/member/marco-rubio/2084",
-        "content": "Rubio, Marco [R-FL]"
+        "party": "R",
+        "state": "FL",
+        "lastName": "Rubio",
+        "firstName": "Marco"
     },
     {
-        "value": "https://www.congress.gov/member/bernard-sanders/1010",
-        "content": "Sanders, Bernard [I-VT]"
+        "party": "I",
+        "state": "VT",
+        "lastName": "Sanders",
+        "firstName": "Bernard"
     },
     {
-        "value": "https://www.congress.gov/member/brian-schatz/2173",
-        "content": "Schatz, Brian [D-HI]"
+        "party": "D",
+        "state": "HI",
+        "lastName": "Schatz",
+        "firstName": "Brian"
     },
     {
-        "value": "https://www.congress.gov/member/charles-schumer/1036",
-        "content": "Schumer, Charles E. [D-NY]"
+        "party": "D",
+        "state": "NY",
+        "lastName": "Schumer",
+        "firstName": "Charles E."
     },
     {
-        "value": "https://www.congress.gov/member/tim-scott/2056",
-        "content": "Scott, Tim [R-SC]"
+        "party": "R",
+        "state": "SC",
+        "lastName": "Scott",
+        "firstName": "Tim"
     },
     {
-        "value": "https://www.congress.gov/member/jeff-sessions/1548",
-        "content": "Sessions, Jeff [R-AL]"
+        "party": "R",
+        "state": "AL",
+        "lastName": "Sessions",
+        "firstName": "Jeff"
     },
     {
-        "value": "https://www.congress.gov/member/jeanne-shaheen/1901",
-        "content": "Shaheen, Jeanne [D-NH]"
+        "party": "D",
+        "state": "NH",
+        "lastName": "Shaheen",
+        "firstName": "Jeanne"
     },
     {
-        "value": "https://www.congress.gov/member/richard-shelby/1049",
-        "content": "Shelby, Richard C. [R-AL]"
+        "party": "R",
+        "state": "AL",
+        "lastName": "Shelby",
+        "firstName": "Richard C."
     },
     {
-        "value": "https://www.congress.gov/member/deborah-stabenow/1531",
-        "content": "Stabenow, Debbie [D-MI]"
+        "party": "D",
+        "state": "MI",
+        "lastName": "Stabenow",
+        "firstName": "Debbie"
     },
     {
-        "value": "https://www.congress.gov/member/jon-tester/1829",
-        "content": "Tester, Jon [D-MT]"
+        "party": "D",
+        "state": "MT",
+        "lastName": "Tester",
+        "firstName": "Jon"
     },
     {
-        "value": "https://www.congress.gov/member/john-thune/1534",
-        "content": "Thune, John [R-SD]"
+        "party": "R",
+        "state": "SD",
+        "lastName": "Thune",
+        "firstName": "John"
     },
     {
-        "value": "https://www.congress.gov/member/pat-toomey/2085",
-        "content": "Toomey, Pat [R-PA]"
+        "party": "R",
+        "state": "PA",
+        "lastName": "Toomey",
+        "firstName": "Pat"
     },
     {
-        "value": "https://www.congress.gov/member/mark-udall/1595",
-        "content": "Udall, Mark [D-CO]"
+        "party": "D",
+        "state": "CO",
+        "lastName": "Udall",
+        "firstName": "Mark"
     },
     {
-        "value": "https://www.congress.gov/member/tom-udall/1567",
-        "content": "Udall, Tom [D-NM]"
+        "party": "D",
+        "state": "NM",
+        "lastName": "Udall",
+        "firstName": "Tom"
     },
     {
-        "value": "https://www.congress.gov/member/david-vitter/1609",
-        "content": "Vitter, David [R-LA]"
+        "party": "R",
+        "state": "LA",
+        "lastName": "Vitter",
+        "firstName": "David"
     },
     {
-        "value": "https://www.congress.gov/member/john-walsh/2198",
-        "content": "Walsh, John E. [D-MT]"
+        "party": "D",
+        "state": "MT",
+        "lastName": "Walsh",
+        "firstName": "John E."
     },
     {
-        "value": "https://www.congress.gov/member/mark-warner/1897",
-        "content": "Warner, Mark R. [D-VA]"
+        "party": "D",
+        "state": "VA",
+        "lastName": "Warner",
+        "firstName": "Mark R."
     },
     {
-        "value": "https://www.congress.gov/member/elizabeth-warren/2182",
-        "content": "Warren, Elizabeth [D-MA]"
+        "party": "D",
+        "state": "MA",
+        "lastName": "Warren",
+        "firstName": "Elizabeth"
     },
     {
-        "value": "https://www.congress.gov/member/sheldon-whitehouse/1823",
-        "content": "Whitehouse, Sheldon [D-RI]"
+        "party": "D",
+        "state": "RI",
+        "lastName": "Whitehouse",
+        "firstName": "Sheldon"
     },
     {
-        "value": "https://www.congress.gov/member/roger-wicker/1226",
-        "content": "Wicker, Roger F. [R-MS]"
+        "party": "R",
+        "state": "MS",
+        "lastName": "Wicker",
+        "firstName": "Roger F."
     },
     {
-        "value": "https://www.congress.gov/member/ron-wyden/1247",
-        "content": "Wyden, Ron [D-OR]"
+        "party": "D",
+        "state": "OR",
+        "lastName": "Wyden",
+        "firstName": "Ron"
     }
 ]
