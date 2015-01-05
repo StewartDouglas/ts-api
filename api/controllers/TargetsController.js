@@ -7,22 +7,30 @@
 
 module.exports = {
 
-/**
+  /**
    * `TargetsController.all()`
    */
   all: function (req, res) {
 
-    console.log(req.body);
+    console.log(req.params);
+    // Combine request paramers from URL and request body
+    var criteria = {};
+    criteria = _.merge({},req.body,req.params.all());
+    console.log(criteria);
 
     Targets.find()
-      .where(req.body)
+      .where(criteria)
       .exec(function(err,results){
             if(err){
-              console.log('Error searching for all targets');
+              console.log('Error searching the Watchlist');
+              return res.notFound();
+            } else if (results.length === 0) {
+              return res.notFound();
+            } else {
+              return res.json(
+                results
+              );
             }
-            return res.json(
-              results
-            );
       });
   },
 
@@ -31,17 +39,24 @@ module.exports = {
    */
   peps: function (req, res) {
 
-    console.log(req.body);
+    // Combine request paramers from URL and request body
+    var criteria = {};
+    criteria = _.merge({},req.body,req.params.all(),{listType: "PEP"});
+    console.log(criteria);
 
     Targets.find()
-      .where({listType: "PEP"})
+      .where(criteria)
       .exec(function(err,results){
             if(err){
-              console.log('Error searching for PEPs');
+              console.log('Error searching the Watchlist');
+              return res.notFound();
+            } else if (results.length === 0) {
+              return res.notFound();
+            } else {
+              return res.json(
+                results
+              );
             }
-            return res.json(
-              results
-            );
       });
   },
 
@@ -50,15 +65,24 @@ module.exports = {
    */
   watchlists: function (req, res) {
 
+    // Combine request paramers from URL and request body
+    var criteria = {};
+    criteria = _.merge({},req.body,req.params.all(),{listType: "Watchlist"});
+    console.log(criteria);
+
     Targets.find()
-      .where({listType: "Watchlist"})
+      .where(criteria)
       .exec(function(err,results){
             if(err){
               console.log('Error searching the Watchlist');
+              return res.notFound();
+            } else if (results.length === 0) {
+              return res.notFound();
+            } else {
+              return res.json(
+                results
+              );
             }
-            return res.json(
-              results
-            );
       });
 
   },
