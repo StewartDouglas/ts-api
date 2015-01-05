@@ -1,0 +1,1570 @@
+[
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Ismail Abdul Salah HANIYA",
+        "first_name": "Ismail",
+        "last_name": "HANIYA",
+        "aka_list": {
+            "aka1": {
+                "uid": "9150",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "HANIYA",
+                "firstName": "Ismail"
+            },
+            "aka2": {
+                "uid": "9151",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "HANIYYA",
+                "firstName": "Ismaeel"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mohammed ABU TEIR",
+        "first_name": "Mohammed",
+        "last_name": "ABU TEIR",
+        "aka_list": {
+            "aka1": {
+                "uid": "9152",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABU TAIR",
+                "firstName": "Mohammed Mahmud"
+            },
+            "aka2": {
+                "uid": "9153",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABOU TAYR",
+                "firstName": "Mohammad Mahmoud"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Jamileh Abdullah AL-SHANTI",
+        "first_name": "Jamileh",
+        "last_name": "AL-SHANTI",
+        "address_province": "Gaza",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9154",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "EL-SHANTI",
+                "firstName": "Jameela Abdallah"
+            },
+            "aka2": {
+                "uid": "9155",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL SHANTEE",
+                "firstName": "Jamila Abed Allah"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mohammed Jamal NU'MAN ALAEDDIN",
+        "first_name": "Mohammed",
+        "last_name": "NU'MAN ALAEDDIN",
+        "address_city": "Hebron",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9156",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ALA AL DIN",
+                "firstName": "Mohamad Nouman"
+            },
+            "aka2": {
+                "uid": "9157",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL NATSHEH",
+                "firstName": "Mohammed"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Yasser Daoud MANSOUR",
+        "first_name": "Yasser",
+        "last_name": "MANSOUR"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Khalil Musa RABAI",
+        "first_name": "Khalil",
+        "last_name": "RABAI",
+        "aka_list": {
+            "aka1": {
+                "uid": "9158",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "RABBAI",
+                "firstName": "Khalil Mussa"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Huda Naim AL-QREINAWI",
+        "first_name": "Huda",
+        "last_name": "AL-QREINAWI",
+        "address_province": "Gaza",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9159",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL QRENAWI",
+                "firstName": "Houda Naim"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mahmoud Ahmad AL-RAMAHI",
+        "first_name": "Mahmoud",
+        "last_name": "AL-RAMAHI",
+        "address_city": "Ramallah",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mahmoud Khaled ZAHHAR",
+        "first_name": "Mahmoud",
+        "last_name": "ZAHHAR",
+        "aka_list": {
+            "aka1": {
+                "uid": "9160",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL ZAHAR",
+                "firstName": "Mahmoud Khaled"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Abdul Fattah HASAN DUKHAN",
+        "first_name": "Abdul",
+        "last_name": "HASAN DUKHAN",
+        "aka_list": {
+            "aka1": {
+                "uid": "9161",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "HASAN DOUKHAN",
+                "firstName": "Abdul Fattah"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Ibrahim Mohammed DAHBOUR",
+        "first_name": "Ibrahim",
+        "last_name": "DAHBOUR",
+        "address_city": "Jenin",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mariam Mahmoud SALEH",
+        "first_name": "Mariam",
+        "last_name": "SALEH",
+        "address_city": "Ramallah",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Fathi Mohammed QAR'AWI",
+        "first_name": "Fathi",
+        "last_name": "QAR'AWI",
+        "address_city": "Tulkarim",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9162",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "QARAWI",
+                "firstName": "Mohammed Fathi"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Anwar Mohammed ZBOUN",
+        "first_name": "Anwar",
+        "last_name": "ZBOUN",
+        "address_city": "Bethlehem",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9163",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-ZBOUN",
+                "firstName": "Anwar Muhammad"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Imad Mahmoud NOFAL",
+        "first_name": "Imad",
+        "last_name": "NOFAL",
+        "address_city": "Qalqilya",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9164",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "NAWFAL",
+                "firstName": "Imad Mahmoud"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Omar Mahmoud MATAR",
+        "first_name": "Omar",
+        "last_name": "MATAR",
+        "address_city": "Salfit",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Muna Salim Saleh MANSOUR",
+        "first_name": "Muna",
+        "last_name": "MANSOUR",
+        "address_city": "Nablus",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9165",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "MANSOUR",
+                "firstName": "Muna Salem"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Yahia Abdul Aziz AL-ABADSAH",
+        "first_name": "Yahia",
+        "last_name": "AL-ABADSAH",
+        "address_city": "Khan Younis",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9166",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "EL ABADSA",
+                "firstName": "Yehia Abdul Aziz"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mohammed Maher Yousef BADER",
+        "first_name": "Mohammed",
+        "last_name": "BADER",
+        "address_city": "Hebron",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Ayman Hussein DARAGHMEH",
+        "first_name": "Ayman",
+        "last_name": "DARAGHMEH",
+        "address_city": "Tubas",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Fathi Ahmad HAMMAD",
+        "first_name": "Fathi",
+        "last_name": "HAMMAD"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mariam Mohammed FARHAT",
+        "first_name": "Mariam",
+        "last_name": "FARHAT",
+        "address_province": "Gaza",
+        "nationality": "Palestine",
+        "address_country": "Palestine"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Sayyed Salem ABU MSAMEH",
+        "first_name": "Sayyed",
+        "last_name": "ABU MSAMEH",
+        "address_city": "Rafah",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9167",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABU MUSAMEH",
+                "firstName": "Sayed Salem"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Marwan Mohammed ABU RAS",
+        "first_name": "Marwan",
+        "last_name": "ABU RAS",
+        "address_city": "Gaza City",
+        "address_province": "Gaza",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9168",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABOU RAAS",
+                "firstName": "Merwan Muhammed"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Samira Abdullah HALAYQAH",
+        "first_name": "Samira",
+        "last_name": "HALAYQAH",
+        "address_city": "Hebron",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9169",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "HALAYQA",
+                "firstName": "Sameera Abed Allah"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Jamal Ismail ISKEIK",
+        "first_name": "Jamal",
+        "last_name": "ISKEIK",
+        "address_province": "Gaza",
+        "nationality": "Palestine",
+        "address_country": "Palestine"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Ali Salim ROUMANIN",
+        "first_name": "Ali",
+        "last_name": "ROUMANIN",
+        "address_city": "Oja",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Ahmad Yousef ABU HALABIYYE",
+        "first_name": "Ahmad",
+        "last_name": "ABU HALABIYYE",
+        "address_city": "Gaza City",
+        "address_province": "Gaza",
+        "nationality": "Palestine",
+        "address_country": "Palestine"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Abdul Jaber Mustafa FUQAHA",
+        "first_name": "Abdul",
+        "last_name": "FUQAHA",
+        "address_city": "Ramallah",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Aziz DWEIK",
+        "first_name": "Aziz",
+        "last_name": "DWEIK",
+        "aka_list": {
+            "aka1": {
+                "uid": "9170",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "DWAIK",
+                "firstName": "Aziz Salem Mustada"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Azzam SALHAB",
+        "first_name": "Azzam",
+        "last_name": "SALHAB",
+        "aka_list": {
+            "aka1": {
+                "uid": "9171",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "SALHAB",
+                "firstName": "Azzam Numan Rahman"
+            },
+            "aka2": {
+                "uid": "9172",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "SALHAB TAMIMI",
+                "firstName": "Azzam No'man Abdel Rahman"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Nizar RAMADAN",
+        "first_name": "Nizar",
+        "last_name": "RAMADAN",
+        "aka_list": {
+            "aka1": {
+                "uid": "9173",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "RAMADAN",
+                "firstName": "Nizar Abd-Al-Aziz"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Nayef RJOUB",
+        "first_name": "Nayef",
+        "last_name": "RJOUB",
+        "aka_list": {
+            "aka1": {
+                "uid": "9174",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "RAJOUB",
+                "firstName": "Naif Mahmod"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Samir AL-QADI",
+        "first_name": "Samir",
+        "last_name": "AL-QADI",
+        "aka_list": {
+            "aka1": {
+                "uid": "9175",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-QADI",
+                "firstName": "Sameer Saleh"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mohammed ABU JHEISHEH",
+        "first_name": "Mohammed",
+        "last_name": "ABU JHEISHEH",
+        "aka_list": {
+            "aka1": {
+                "uid": "9176",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABU JHESHEH",
+                "firstName": "Mohammad Mutlaq"
+            },
+            "aka2": {
+                "uid": "9177",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABU JEHEISHA",
+                "firstName": "Mohammed"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Hatem QFEISHEH",
+        "first_name": "Hatem",
+        "last_name": "QFEISHEH",
+        "aka_list": {
+            "aka1": {
+                "uid": "9178",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "KAFEESHEH",
+                "firstName": "Hatem Rabah"
+            },
+            "aka2": {
+                "uid": "9179",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "QEFEISHA",
+                "firstName": "Hatem"
+            },
+            "aka3": {
+                "uid": "9180",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABU ANED",
+                "firstName": "Hadj Hatem"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Basem ZA'ARIR",
+        "first_name": "Basem",
+        "last_name": "ZA'ARIR",
+        "aka_list": {
+            "aka1": {
+                "uid": "9181",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ZAAREER",
+                "firstName": "Basim Ahmad"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mohammed AL-TAL",
+        "first_name": "Mohammed",
+        "last_name": "AL-TAL",
+        "aka_list": {
+            "aka1": {
+                "uid": "9182",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-TAL",
+                "firstName": "Mohammad Ismail"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Daoud ABU SEIR",
+        "first_name": "Daoud",
+        "last_name": "ABU SEIR",
+        "aka_list": {
+            "aka1": {
+                "uid": "9183",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABU SAIR",
+                "firstName": "Da'oud Kamal Da'oud"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Hamid Jabir KHUDAIR",
+        "first_name": "Hamid",
+        "last_name": "KHUDAIR",
+        "aka_list": {
+            "aka1": {
+                "uid": "9184",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "KHUDAIR",
+                "firstName": "Hamid Sulieman Jabir"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Husni Bourini YASIN",
+        "first_name": "Husni",
+        "last_name": "YASIN",
+        "aka_list": {
+            "aka1": {
+                "uid": "9185",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "YASIN",
+                "firstName": "Husni Mohammad Bourini"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Riyad Ali AMLI",
+        "first_name": "Riyad",
+        "last_name": "AMLI",
+        "aka_list": {
+            "aka1": {
+                "uid": "9186",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AMLI",
+                "firstName": "Riyad Ali Mustafa"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Ahmad Ali AHMAD",
+        "first_name": "Ahmad",
+        "last_name": "AHMAD",
+        "aka_list": {
+            "aka1": {
+                "uid": "9187",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AHMAD",
+                "firstName": "Ahmad Ali Ahmad"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Hasan YOUSEF",
+        "first_name": "Hasan",
+        "last_name": "YOUSEF",
+        "aka_list": {
+            "aka1": {
+                "uid": "9188",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "DAR KHALIL",
+                "firstName": "Hasan Youssef Daoud"
+            },
+            "aka2": {
+                "uid": "9189",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "DAR KHALIL",
+                "firstName": "Hassan Yousef Dawoud"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Fadel HAMDAN",
+        "first_name": "Fadel",
+        "last_name": "HAMDAN",
+        "aka_list": {
+            "aka1": {
+                "uid": "9190",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "HAMDAN",
+                "firstName": "Fadel Mohammad Saleh"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mahmoud MUSLEH",
+        "first_name": "Mahmoud",
+        "last_name": "MUSLEH",
+        "aka_list": {
+            "aka1": {
+                "uid": "9191",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "MUSLEH",
+                "firstName": "Mahmoud Ibrahim Mahmoud"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Ahmad 'Abd al-Aziz MUBARAK",
+        "first_name": "Ahmad",
+        "last_name": "MUBARAK",
+        "aka_list": {
+            "aka1": {
+                "uid": "9192",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "MUBARAK",
+                "firstName": "Ahmad Abdel Aziz Saleh"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Khaled Tafish THWEIB",
+        "first_name": "Khaled",
+        "last_name": "THWEIB",
+        "aka_list": {
+            "aka1": {
+                "uid": "9193",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "THOUAIB",
+                "firstName": "Khaled Ibrahim Tafish"
+            },
+            "aka2": {
+                "uid": "9194",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "DWEIB",
+                "firstName": "Khaled Tafesh"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mahmoud AL-KHATIB",
+        "first_name": "Mahmoud",
+        "last_name": "AL-KHATIB",
+        "aka_list": {
+            "aka1": {
+                "uid": "9195",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-KHATIB",
+                "firstName": "Mahmoud Daoud Mahmoud"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Khaled Abed YAHIA",
+        "first_name": "Khaled",
+        "last_name": "YAHIA",
+        "address_city": "Jenin",
+        "address_province": "West Bank",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9196",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "YEHIA",
+                "firstName": "Khaled Said"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Khaled ABU HASSAN",
+        "first_name": "Khaled",
+        "last_name": "ABU HASSAN",
+        "aka_list": {
+            "aka1": {
+                "uid": "9197",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABOU HASSAN",
+                "firstName": "Khaled Suleiman Fayez"
+            },
+            "aka2": {
+                "uid": "9198",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABU HASAN",
+                "firstName": "Khalid Sulayman Fayiz"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Abdul Rahman Fahmi ZEIDAN",
+        "first_name": "Abdul",
+        "last_name": "ZEIDAN",
+        "aka_list": {
+            "aka1": {
+                "uid": "9199",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ZEIDAN",
+                "firstName": "Abdel Rahman Fahmi Rahman"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Riyad RADDAD",
+        "first_name": "Riyad",
+        "last_name": "RADDAD",
+        "aka_list": {
+            "aka1": {
+                "uid": "9200",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "RADAD",
+                "firstName": "Riyad Mahmoud Sa'eed"
+            },
+            "aka2": {
+                "uid": "9201",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-SEDAWI",
+                "firstName": "Riyad Radad"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Ahmad ATTOUN",
+        "first_name": "Ahmad",
+        "last_name": "ATTOUN",
+        "aka_list": {
+            "aka1": {
+                "uid": "9202",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ATTOUN",
+                "firstName": "Ahmad Mohammad Ahmad"
+            },
+            "aka2": {
+                "uid": "9203",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ATOON",
+                "firstName": "Ahmed Muhamad Ahmed"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Ibrahim ABU SALEM",
+        "first_name": "Ibrahim",
+        "last_name": "ABU SALEM",
+        "aka_list": {
+            "aka1": {
+                "uid": "9204",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABOU SALEM",
+                "firstName": "Ibrahim Said Hasan"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mohammed Saleh TUTAH",
+        "first_name": "Mohammed",
+        "last_name": "TUTAH",
+        "aka_list": {
+            "aka1": {
+                "uid": "9205",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "TAWTAH",
+                "firstName": "Mohammad Omran Saleh"
+            },
+            "aka2": {
+                "uid": "9206",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "TAWTA",
+                "firstName": "Muhamed Umran Salih"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Wael AL-HUSSEINI",
+        "first_name": "Wael",
+        "last_name": "AL-HUSSEINI",
+        "aka_list": {
+            "aka1": {
+                "uid": "9207",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABDUL RAHMAN",
+                "firstName": "Wael Muhammed"
+            },
+            "aka2": {
+                "uid": "9208",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABED AL RAHMAAN",
+                "firstName": "Wael Mohamad"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Naser ABDUL JAWAD",
+        "first_name": "Naser",
+        "last_name": "ABDUL JAWAD",
+        "aka_list": {
+            "aka1": {
+                "uid": "9209",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABDEL JAWAD",
+                "firstName": "Nasir Abdullah Odeh"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Khaled ABU TOS",
+        "first_name": "Khaled",
+        "last_name": "ABU TOS",
+        "aka_list": {
+            "aka1": {
+                "uid": "9210",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ABU QOUS",
+                "firstName": "Khalid Hamad Hamid"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Khamis NAJJAR",
+        "first_name": "Khamis",
+        "last_name": "NAJJAR",
+        "aka_list": {
+            "aka1": {
+                "uid": "9211",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "NAJJAR",
+                "firstName": "Khamis Jawdat Khamis"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Salah AL-BARDAWIL",
+        "first_name": "Salah",
+        "last_name": "AL-BARDAWIL",
+        "aka_list": {
+            "aka1": {
+                "uid": "9212",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "EL BARDAWIL",
+                "firstName": "Salah Mohammad"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Younes AL-ASTAL",
+        "first_name": "Younes",
+        "last_name": "AL-ASTAL",
+        "aka_list": {
+            "aka1": {
+                "uid": "9213",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "EL-ASTAL",
+                "firstName": "Younis Mohe-eldeen Fayez"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Abdul Rahman AL-JAMAL",
+        "first_name": "Abdul",
+        "last_name": "AL-JAMAL",
+        "aka_list": {
+            "aka1": {
+                "uid": "9214",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-JAMAL",
+                "firstName": "Abdel Al-Rahman Yusef"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Salem SALAMEH",
+        "first_name": "Salem",
+        "last_name": "SALAMEH",
+        "aka_list": {
+            "aka1": {
+                "uid": "9215",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "SALAMEH",
+                "firstName": "Salem Ahmad Abdel Hadi"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Saeed SIAM",
+        "first_name": "Saeed",
+        "last_name": "SIAM",
+        "address_province": "Gaza",
+        "nationality": "Palestine",
+        "address_country": "Palestine",
+        "aka_list": {
+            "aka1": {
+                "uid": "9216",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "SEYAM",
+                "firstName": "Said Mohammad"
+            },
+            "aka2": {
+                "uid": "9217",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "SIYAM",
+                "firstName": "Saeed Mohammad"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Ahmad BAHAR",
+        "first_name": "Ahmad",
+        "last_name": "BAHAR",
+        "aka_list": {
+            "aka1": {
+                "uid": "9218",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "BAHAR",
+                "firstName": "Ahmed Mohamed"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Jamal SALEH",
+        "first_name": "Jamal",
+        "last_name": "SALEH",
+        "aka_list": {
+            "aka1": {
+                "uid": "9219",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "NASSER",
+                "firstName": "Jamal Talab Mohammad Saleh"
+            },
+            "aka2": {
+                "uid": "9220",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "SALEH",
+                "firstName": "Jamal Talab"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Khalil AL-HAYYEH",
+        "first_name": "Khalil",
+        "last_name": "AL-HAYYEH",
+        "aka_list": {
+            "aka1": {
+                "uid": "9221",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ELHYYA",
+                "firstName": "Khalil Esmaeel"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mohammed Faraj AL-GHOUL",
+        "first_name": "Mohammed",
+        "last_name": "AL-GHOUL",
+        "aka_list": {
+            "aka1": {
+                "uid": "9222",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ELGHOUL",
+                "firstName": "Mohammad Faraj Mahmood"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mushir AL-HABAL",
+        "first_name": "Mushir",
+        "last_name": "AL-HABAL",
+        "aka_list": {
+            "aka1": {
+                "uid": "9223",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ELHABEL",
+                "firstName": "Moshir Omar"
+            },
+            "aka2": {
+                "uid": "9224",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "EL-MASRI",
+                "firstName": "Moshir"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Atef UDWAN",
+        "first_name": "Atef",
+        "last_name": "UDWAN",
+        "aka_list": {
+            "aka1": {
+                "uid": "9225",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "ADWAN",
+                "firstName": "Atef Ibrahim"
+            },
+            "aka2": {
+                "uid": "9226",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "IDWAN",
+                "firstName": "Atef Ibrahim Mohammad"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Yousef AL-SHARAFI",
+        "first_name": "Yousef",
+        "last_name": "AL-SHARAFI",
+        "aka_list": {
+            "aka1": {
+                "uid": "9227",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-SHRAFI",
+                "firstName": "Yousef Awad"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Ismail AL-ASHQAR",
+        "first_name": "Ismail",
+        "last_name": "AL-ASHQAR",
+        "aka_list": {
+            "aka1": {
+                "uid": "9228",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "AL-ALASHQAR",
+                "firstName": "Ismail Abdallatif"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Mohammed SHIHAB",
+        "first_name": "Mohammed",
+        "last_name": "SHIHAB",
+        "aka_list": {
+            "aka1": {
+                "uid": "9229",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "SHEHAB",
+                "firstName": "Mohamed Abed Hadi Rahman"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Ahmad SA'DAT",
+        "first_name": "Ahmad",
+        "last_name": "SA'DAT"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Jamil MAJDALAWI",
+        "first_name": "Jamil",
+        "last_name": "MAJDALAWI"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Khaledah JARRAR",
+        "first_name": "Khaledah",
+        "last_name": "JARRAR"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Qais Abdul KARIM",
+        "first_name": "Qais",
+        "last_name": "KARIM"
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Vitaly SOKOLENKO",
+        "first_name": "Vitaly",
+        "last_name": "SOKOLENKO",
+        "aka_list": {
+            "aka1": {
+                "uid": "24750",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "SOKOLENKO",
+                "firstName": "Vitalii"
+            },
+            "aka2": {
+                "uid": "24751",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "SOKOLENKO",
+                "firstName": "Vitaliy"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Pourya NAYEBI",
+        "first_name": "Pourya",
+        "last_name": "NAYEBI",
+        "aka_list": {
+            "aka1": {
+                "uid": "25073",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "NAYEBI",
+                "firstName": "Pourya Ali Asghar"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Houshang HOSSEINPOUR",
+        "first_name": "Houshang",
+        "last_name": "HOSSEINPOUR",
+        "aka_list": {
+            "aka1": {
+                "uid": "25075",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "HOSSEINPOUR",
+                "firstName": "Houshang Shahali"
+            },
+            "aka2": {
+                "uid": "25077",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "HOSEIN-PUR",
+                "firstName": "Houshang"
+            }
+        }
+    },
+    {
+        "object": "Individual",
+        "list_type": "Watchlist",
+        "data_source": "US Sanctions List",
+        "uri": "http://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/consolidated.aspx",
+        "fullName": "Houshang FARSOUDEH",
+        "first_name": "Houshang",
+        "last_name": "FARSOUDEH",
+        "aka_list": {
+            "aka1": {
+                "uid": "25120",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "FARSOUDEH",
+                "firstName": "Hushang"
+            },
+            "aka2": {
+                "uid": "25121",
+                "type": "a.k.a.",
+                "category": "strong",
+                "lastName": "FARSOUDEH",
+                "firstName": "Houshang Hossein"
+            }
+        }
+    }
+]
