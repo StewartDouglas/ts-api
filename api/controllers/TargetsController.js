@@ -14,6 +14,8 @@ module.exports = {
 
     console.log(req.params);
     // Combine request paramers from URL and request body
+
+    // TO DO: If no parameters provided then reply 'bad request'
     var criteria = {};
     criteria = _.merge({},req.body,req.params.all());
     console.log(criteria);
@@ -41,7 +43,7 @@ module.exports = {
 
     // Combine request paramers from URL and request body
     var criteria = {};
-    criteria = _.merge({},req.body,req.params.all(),{listType: "PEP"});
+    criteria = _.merge({},req.body,req.params.all(),{list_type: "PEP"});
     console.log(criteria);
 
     Targets.find()
@@ -67,7 +69,7 @@ module.exports = {
 
     // Combine request paramers from URL and request body
     var criteria = {};
-    criteria = _.merge({},req.body,req.params.all(),{listType: "Watchlist"});
+    criteria = _.merge({},req.body,req.params.all(),{list_type: "Watchlist"});
     console.log(criteria);
 
     Targets.find()

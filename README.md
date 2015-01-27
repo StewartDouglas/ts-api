@@ -1,3 +1,4 @@
-# app
+# TradeSafe API
 
-a [Sails](http://sailsjs.org) application
+A RESTful JSON API for checking user details against sanctions and PEPs lists. Still in development.
+
