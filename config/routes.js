@@ -33,18 +33,18 @@ module.exports.routes = {
   ***************************************************************************/
 
   'GET /v1/targets': 'TargetsController.all',
-  'GET /v1/targets/:id?': 'TargetsController.all',
   'GET /v1/targets/peps': 'TargetsController.peps',
+  'GET /v1/targets/watchlists': 'TargetsController.watchlists',  
+  'GET /v1/targets/:id?': 'TargetsController.all',
   'GET /v1/targets/peps/:id?': 'TargetsController.peps',  
-  'GET /v1/targets/watchlists': 'TargetsController.watchlists',
   'GET /v1/targets/watchlists/:id?': 'TargetsController.watchlists',
 
-  'POST /v1/targets': 'TargetsController.all',
-  'POST /v1/targets/:id?': 'TargetsController.all',
-  'POST /v1/targets/peps': 'TargetsController.peps',
-  'POST /v1/targets/peps/:id?': 'TargetsController.peps',  
-  'POST /v1/targets/watchlists': 'TargetsController.watchlists',  
-  'POST /v1/targets/watchlists/:id?': 'TargetsController.watchlists'
+  // 'POST /v1/targets': 'TargetsController.all',
+  // 'POST /v1/targets/peps': 'TargetsController.peps',
+  // 'POST /v1/targets/watchlists': 'TargetsController.watchlists', 
+  // 'POST /v1/targets/:id?': 'TargetsController.all',
+  // 'POST /v1/targets/peps/:id?': 'TargetsController.peps',  
+  // 'POST /v1/targets/watchlists/:id?': 'TargetsController.watchlists'
 
 
 

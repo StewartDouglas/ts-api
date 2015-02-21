@@ -2,7 +2,6 @@
  * TargetsController
  *
  * @description :: Server-side logic for managing Targets
- * @help        :: See http://links.sailsjs.org/docs/controllers
  */
 
 module.exports = {
@@ -12,12 +11,10 @@ module.exports = {
    */
   all: function (req, res) {
 
-    console.log(req.params);
-    // Combine request paramers from URL and request body
+    //console.log(req.params);
 
-    // TO DO: If no parameters provided then reply 'bad request'
     var criteria = {};
-    criteria = _.merge({},req.body,req.params.all());
+    criteria = _.merge({},req.body,req.params.all()); // Combine request paramers from URL and request body
     console.log(criteria);
 
     Targets.find()
@@ -25,13 +22,11 @@ module.exports = {
       .exec(function(err,results){
             if(err){
               console.log('Error searching the Watchlist');
-              return res.notFound();
+              return res.json(500, {Error: 'Internal Server Error'}); 
             } else if (results.length === 0) {
-              return res.notFound();
+              return res.json(404, {Error: 'Not Found'});  
             } else {
-              return res.json(
-                results
-              );
+              return res.json(200, results);
             }
       });
   },
@@ -41,23 +36,22 @@ module.exports = {
    */
   peps: function (req, res) {
 
-    // Combine request paramers from URL and request body
+    //console.log(req.params);
+
     var criteria = {};
-    criteria = _.merge({},req.body,req.params.all(),{list_type: "PEP"});
-    console.log(criteria);
+    criteria = _.merge({},req.body,req.params.all()); // Combine request paramers from URL and request body
+    //console.log(criteria);
 
     Targets.find()
       .where(criteria)
       .exec(function(err,results){
             if(err){
               console.log('Error searching the Watchlist');
-              return res.notFound();
+              return res.json(500, {Error: 'Internal Server Error'}); 
             } else if (results.length === 0) {
-              return res.notFound();
+              return res.json(404, {Error: 'Not Found'});
             } else {
-              return res.json(
-                results
-              );
+              return res.json(200,results);
             }
       });
   },
@@ -67,9 +61,10 @@ module.exports = {
    */
   watchlists: function (req, res) {
 
-    // Combine request paramers from URL and request body
+    console.log(req.params);
+
     var criteria = {};
-    criteria = _.merge({},req.body,req.params.all(),{list_type: "Watchlist"});
+    criteria = _.merge({},req.body,req.params.all(),{list_type: "Watchlist"}); // Combine request paramers from URL and request body
     console.log(criteria);
 
     Targets.find()
@@ -77,13 +72,11 @@ module.exports = {
       .exec(function(err,results){
             if(err){
               console.log('Error searching the Watchlist');
-              return res.notFound();
+              return res.json(500, {Error: 'Internal Server Error'}); 
             } else if (results.length === 0) {
-              return res.notFound();
+              return res.json(404, {Error: 'Not Found'});
             } else {
-              return res.json(
-                results
-              );
+              return res.json(200, results);
             }
       });
 
