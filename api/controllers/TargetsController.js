@@ -4,16 +4,16 @@
  * @description :: Server-side logic for managing Targets
  */
 
-module.exports = {
+var valid_parameters = [ 'object',
+                     'list_type',
+                     'data_source',
+                     'full_name',
+                     'first_name',
+                     'last_name',
+                     'aka_list',
+                     'id' ]
 
-  valid_parameters = [ 'object',
-                       'list_type',
-                       'data_source',
-                       'full_name',
-                       'first_name',
-                       'last_name',
-                       'aka_list',
-                       'id' ]
+module.exports = {
 
   /**
    * `TargetsController.all()`
