@@ -6,19 +6,36 @@
 
 module.exports = {
 
+  valid_parameters = [ 'object',
+                       'list_type',
+                       'data_source',
+                       'full_name',
+                       'first_name',
+                       'last_name',
+                       'aka_list',
+                       'id' ]
+
   /**
    * `TargetsController.all()`
    */
   all: function (req, res) {
 
-    //console.log(req.params);
-
     var criteria = {};
     criteria = _.merge({},req.body,req.params.all()); // Combine request paramers from URL and request body
     console.log(criteria);
 
+    // test that each of the request parameters is valid, if not return 400 Bad Request
+    if(criteria != {}) {
+      if(!Object.keys(criteria).every(function(key){
+        return valid_parameters.indexOf(key) != -1
+      })){
+        return res.json(400, {Error: 'Invalid request parameters'})
+      }
+    }
+
     Targets.find()
       .where(criteria)
+      .paginate({page: 2, limit: 30})
       .exec(function(err,results){
             if(err){
               console.log('Error searching the Watchlist');
@@ -36,14 +53,22 @@ module.exports = {
    */
   peps: function (req, res) {
 
-    //console.log(req.params);
-
     var criteria = {};
     criteria = _.merge({},req.body,req.params.all()); // Combine request paramers from URL and request body
-    //console.log(criteria);
+    console.log(criteria);
+
+    // test that each of the request parameters is valid, if not return 400 Bad Request
+    if(criteria != {}) {
+      if(!Object.keys(criteria).every(function(key){
+        return valid_parameters.indexOf(key) != -1
+      })){
+        return res.json(400, {Error: 'Invalid request parameters'})
+      }
+    }
 
     Targets.find()
       .where(criteria)
+      .paginate({page: 2, limit: 30})      
       .exec(function(err,results){
             if(err){
               console.log('Error searching the Watchlist');
@@ -61,14 +86,22 @@ module.exports = {
    */
   watchlists: function (req, res) {
 
-    console.log(req.params);
-
     var criteria = {};
     criteria = _.merge({},req.body,req.params.all(),{list_type: "Watchlist"}); // Combine request paramers from URL and request body
     console.log(criteria);
 
+    // test that each of the request parameters is valid, if not return 400 Bad Request
+    if(criteria != {}) {
+      if(!Object.keys(criteria).every(function(key){
+        return valid_parameters.indexOf(key) != -1
+      })){
+        return res.json(400, {Error: 'Invalid request parameters'})
+      }
+    }
+
     Targets.find()
       .where(criteria)
+      .paginate({page: 2, limit: 30})      
       .exec(function(err,results){
             if(err){
               console.log('Error searching the Watchlist');
