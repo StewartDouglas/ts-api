@@ -5,13 +5,13 @@
  */
 
 var valid_parameters = [ 'object',
-                     'list_type',
-                     'data_source',
-                     'full_name',
-                     'first_name',
-                     'last_name',
-                     'aka_list',
-                     'id' ]
+                         'list_type',
+                         'data_source',
+                         'full_name',
+                         'first_name',
+                         'last_name',
+                         'aka_list',
+                         'id' ]
 
 module.exports = {
 
@@ -35,7 +35,7 @@ module.exports = {
 
     Targets.find()
       .where(criteria)
-      .paginate({page: 2, limit: 30})
+      .limit(30)
       .exec(function(err,results){
             if(err){
               console.log('Error searching the Watchlist');
@@ -68,7 +68,7 @@ module.exports = {
 
     Targets.find()
       .where(criteria)
-      .paginate({page: 2, limit: 30})      
+      .limit(30) 
       .exec(function(err,results){
             if(err){
               console.log('Error searching the Watchlist');
@@ -101,7 +101,7 @@ module.exports = {
 
     Targets.find()
       .where(criteria)
-      .paginate({page: 2, limit: 30})      
+      .limit(30)   
       .exec(function(err,results){
             if(err){
               console.log('Error searching the Watchlist');
