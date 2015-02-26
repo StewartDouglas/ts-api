@@ -10,7 +10,6 @@ var valid_parameters = [ 'object',
                          'full_name',
                          'first_name',
                          'last_name',
-                         'aka_list',
                          'id' ]
 
 module.exports = {
@@ -22,7 +21,6 @@ module.exports = {
 
     var criteria = {};
     criteria = _.merge({},req.body,req.params.all()); // Combine request paramers from URL and request body
-    console.log(criteria);
 
     // test that each of the request parameters is valid, if not return 400 Bad Request
     if(criteria != {}) {
@@ -38,7 +36,6 @@ module.exports = {
       .limit(30)
       .exec(function(err,results){
             if(err){
-              console.log('Error searching the Watchlist');
               return res.json(500, {Error: 'Internal Server Error'}); 
             } else if (results.length === 0) {
               return res.json(404, {Error: 'Not Found'});  
@@ -55,7 +52,6 @@ module.exports = {
 
     var criteria = {};
     criteria = _.merge({},req.body,req.params.all()); // Combine request paramers from URL and request body
-    console.log(criteria);
 
     // test that each of the request parameters is valid, if not return 400 Bad Request
     if(criteria != {}) {
@@ -71,7 +67,6 @@ module.exports = {
       .limit(30) 
       .exec(function(err,results){
             if(err){
-              console.log('Error searching the Watchlist');
               return res.json(500, {Error: 'Internal Server Error'}); 
             } else if (results.length === 0) {
               return res.json(404, {Error: 'Not Found'});
@@ -104,7 +99,6 @@ module.exports = {
       .limit(30)   
       .exec(function(err,results){
             if(err){
-              console.log('Error searching the Watchlist');
               return res.json(500, {Error: 'Internal Server Error'}); 
             } else if (results.length === 0) {
               return res.json(404, {Error: 'Not Found'});
@@ -114,6 +108,12 @@ module.exports = {
       });
 
   },
+
+  error: function(req,res){
+    return res.json(400, {Error: 'Currently the TradeSafe API only supports GET requests'})
+  }
+
+
 /*
   _config: {
     actions: false,
