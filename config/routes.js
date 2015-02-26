@@ -39,12 +39,26 @@ module.exports.routes = {
   'GET /v1/targets/peps/:id?': 'TargetsController.peps',  
   'GET /v1/targets/watchlists/:id?': 'TargetsController.watchlists',
 
-  // 'POST /v1/targets': 'TargetsController.all',
-  // 'POST /v1/targets/peps': 'TargetsController.peps',
-  // 'POST /v1/targets/watchlists': 'TargetsController.watchlists', 
-  // 'POST /v1/targets/:id?': 'TargetsController.all',
-  // 'POST /v1/targets/peps/:id?': 'TargetsController.peps',  
-  // 'POST /v1/targets/watchlists/:id?': 'TargetsController.watchlists'
+  'POST /v1/targets': 'TargetsController.error',
+  'POST /v1/targets/peps': 'TargetsController.error',
+  'POST /v1/targets/watchlists': 'TargetsController.error', 
+  'POST /v1/targets/:id?': 'TargetsController.error',
+  'POST /v1/targets/peps/:id?': 'TargetsController.error',  
+  'POST /v1/targets/watchlists/:id?': 'TargetsController.error',
+
+  'PUT /v1/targets': 'TargetsController.error',
+  'PUT /v1/targets/peps': 'TargetsController.error',
+  'PUT /v1/targets/watchlists': 'TargetsController.error', 
+  'PUT /v1/targets/:id?': 'TargetsController.error',
+  'PUT /v1/targets/peps/:id?': 'TargetsController.error',  
+  'PUT /v1/targets/watchlists/:id?': 'TargetsController.error',
+
+  'DELETE /v1/targets': 'TargetsController.error',
+  'DELETE /v1/targets/peps': 'TargetsController.error',
+  'DELETE /v1/targets/watchlists': 'TargetsController.error', 
+  'DELETE /v1/targets/:id?': 'TargetsController.error',
+  'DELETE /v1/targets/peps/:id?': 'TargetsController.error',  
+  'DELETE /v1/targets/watchlists/:id?': 'TargetsController.error' 
 
 
 
